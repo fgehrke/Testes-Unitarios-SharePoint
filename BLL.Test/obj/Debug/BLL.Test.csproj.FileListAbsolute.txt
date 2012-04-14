@@ -1,0 +1,10 @@
+C:\Users\Fabian\documents\visual studio 11\Projects\DemoTeste2\BLL.Test\bin\Debug\BLL.Test.dll
+C:\Users\Fabian\documents\visual studio 11\Projects\DemoTeste2\BLL.Test\bin\Debug\BLL.Test.pdb
+C:\Users\Fabian\documents\visual studio 11\Projects\DemoTeste2\BLL.Test\obj\Debug\BLL.Test.csprojResolveAssemblyReference.cache
+C:\Users\Fabian\documents\visual studio 11\Projects\DemoTeste2\BLL.Test\obj\Debug\BLL.Test.dll
+C:\Users\Fabian\documents\visual studio 11\Projects\DemoTeste2\BLL.Test\obj\Debug\BLL.Test.pdb
+C:\Users\Fabian\documents\visual studio 11\Projects\DemoTeste2\BLL.Test\bin\Debug\BLL.dll
+C:\Users\Fabian\documents\visual studio 11\Projects\DemoTeste2\BLL.Test\bin\Debug\Moq.dll
+C:\Users\Fabian\documents\visual studio 11\Projects\DemoTeste2\BLL.Test\bin\Debug\BLL.pdb
+C:\Users\Fabian\documents\visual studio 11\Projects\DemoTeste2\BLL.Test\bin\Debug\Moq.pdb
+C:\Users\Fabian\documents\visual studio 11\Projects\DemoTeste2\BLL.Test\bin\Debug\Moq.xml

@@ -1,0 +1,5 @@
+C:\Users\Fabian\documents\visual studio 11\Projects\DemoTeste2\BLL\bin\Debug\BLL.dll
+C:\Users\Fabian\documents\visual studio 11\Projects\DemoTeste2\BLL\bin\Debug\BLL.pdb
+C:\Users\Fabian\documents\visual studio 11\Projects\DemoTeste2\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Fabian\documents\visual studio 11\Projects\DemoTeste2\BLL\obj\Debug\BLL.dll
+C:\Users\Fabian\documents\visual studio 11\Projects\DemoTeste2\BLL\obj\Debug\BLL.pdb
